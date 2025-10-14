@@ -1,7 +1,7 @@
 -- ==============================================================================
 -- CanaOptimizer - Script de Criação do Banco de Dados Oracle
 -- ==============================================================================
--- Autor: [SEU_NOME]
+-- Autor: Sidney de Lirio Cardoso
 -- Data: 14/10/2025
 -- Descrição: Cria tabelas e objetos necessários para o sistema
 -- ==============================================================================
