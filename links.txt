@@ -1,0 +1,37 @@
+ATIVIDADE 2 - PYTHON E ALÉM
+FarmTech Solutions - CanaOptimizer
+
+========================================
+LINKS PARA ENTREGA
+========================================
+
+1. Código Python (src/app.py):
+https://github.com/sidcardoso/fiap_2025_atv2/blob/main/src/app.py
+
+2. README.md com descrição da solução:
+https://github.com/sidcardoso/fiap_2025_atv2/blob/main/README.md
+
+========================================
+INFORMAÇÕES ADICIONAIS
+========================================
+
+Repositório completo:
+https://github.com/sidcardoso/fiap_2025_atv2
+
+Projeto: CanaOptimizer - Sistema de Monitoramento de Perdas na Colheita de Cana-de-Açúcar
+
+Tecnologias:
+- Python 3.12+
+- Estruturas de dados (tuplas, listas, dicionários)
+- Manipulação de arquivos (JSON e TXT)
+- Integração com Oracle Database
+- Template FIAP seguido
+
+Funcionalidades:
+- Monitoramento de colheitas
+- Cálculo de perdas e prejuízos
+- Geração de relatórios
+- Simulações de economia
+- Sistema de irrigação inteligente (Fase 2)
+
+Data de entrega: 14/10/2025
